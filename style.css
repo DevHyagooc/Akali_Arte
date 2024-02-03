@@ -1,0 +1,128 @@
+body{
+    font-size: 12pt;
+    background-color: #00060f;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+    padding: 0px 20px;
+
+}
+ul{
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 16px;
+}
+ul a{
+    color: white;
+    text-decoration: none;
+    transition: 0.3s;
+}
+a{
+    color: #daa520;
+    text-decoration: none;
+}
+header img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 3px solid #daa520;
+}
+.center{
+    text-align: center;
+}
+
+h1{
+    color: #daa520;
+}
+header{
+    text-align: center;
+}
+.texto{
+    text-align: center;    
+    padding: 0px 350px;
+}
+fieldset{
+    border-color: #daa520;
+    background-color: #000916;
+    width: 200px;
+    padding-top: 0px;
+    height: 40px;
+    margin-top: 40px;
+    transition: 1s;
+}
+.leia{
+    padding: 0% 35%;
+}
+ul a:hover{
+color: #daa520;
+transition: 0.3s;
+}
+fieldset:hover{
+    transform: scale(1.05,1.05);
+    transition: 1s;
+}
+footer{
+    margin-top: 38px;
+}
+footer img{
+    width: 100px;
+    opacity: 40%;
+    transition: 0.3s;
+}
+.riot{
+    text-align: center;
+}
+footer img:hover{
+    opacity: 80%;
+    transition: 0.38s;
+}
+.direitos{
+    font-family: Arial, Helvetica, sans-serif;
+    opacity: 40%;
+    font-size: 9pt;
+    text-align: center;
+    padding-top: 8px;
+}
+.Q{
+    position: relative;
+    padding-top: 70px;
+}
+.W{
+    position: relative;
+    padding-top: 70px;
+}
+.E{
+    position: relative;
+    padding-top: 70px;
+}
+.R{
+    position: relative;
+    padding-top: 70px;
+}
+.habilidades{
+    text-align: center;
+    padding: 0px 350px;
+    margin-top: 50px;
+    
+}
+iframe{
+    padding-top: 50px;
+}
+.todasfotos{
+    margin-top: 50px;
+}
+ul img{
+    width: 480px;
+    padding-left: 10px;
+}
+.lista1{
+    margin-left: -40px;
+    text-align: center;
+}
+.icone{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-top: 55px;
+}
